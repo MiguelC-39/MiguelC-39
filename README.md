@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 <!--
 **MiguelC-39/MiguelC-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
