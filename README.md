@@ -6,7 +6,7 @@
 
 <img width="60" height="auto" alt="Image" src="https://github.com/user-attachments/assets/8e7df62a-b5ad-4566-8d24-f3cdedbacf6a" />
 
-<img width="100" height="auto" alt="Image" src="https://github.com/user-attachments/assets/2473f8b7-d4c1-4cbd-87fb-2a57ae3768ec" />
+<img width="90" height="auto" alt="Image" src="https://github.com/user-attachments/assets/2473f8b7-d4c1-4cbd-87fb-2a57ae3768ec" />
 
 <!--
 **MiguelC-39/MiguelC-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
