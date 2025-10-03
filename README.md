@@ -1,7 +1,12 @@
 ## Gutentag (I´m not german)
 
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-https://github.com/TaranVH/LOGOS/blob/master/Nvidia%20logo.png?raw=true
+
+<img width="2050" height="1524" alt="Image" src="https://github.com/user-attachments/assets/0bce4a4e-0e30-4bed-bb49-46f4000e6549" />
+
+<img width="2000" height="1986" alt="Image" src="https://github.com/user-attachments/assets/8e7df62a-b5ad-4566-8d24-f3cdedbacf6a" />
+
+<img width="500" height="179" alt="Image" src="https://github.com/user-attachments/assets/2473f8b7-d4c1-4cbd-87fb-2a57ae3768ec" />
 
 <!--
 **MiguelC-39/MiguelC-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
