@@ -1,6 +1,7 @@
 ## Gutentag (I´m not german)
 
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+https://github.com/TaranVH/LOGOS/blob/master/Nvidia%20logo.png?raw=true
 
 <!--
 **MiguelC-39/MiguelC-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
